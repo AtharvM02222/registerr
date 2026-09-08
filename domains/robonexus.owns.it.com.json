@@ -7,9 +7,7 @@
         "email": "atharvam682@gmail.com"
     },
     "record": {
-        "CNAME": [
-            "050da42d065c74a9.vercel-dns-017.com."
-        ]
-    },
+        "CNAME": "050da42d065c74a9.vercel-dns-017.com"
+    }
     "proxied": false
 }
